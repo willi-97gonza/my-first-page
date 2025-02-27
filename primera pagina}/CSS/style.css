@@ -1,0 +1,22 @@
+html { font-size: 20px;
+font-family: 'Papyrus';}
+body {
+    width: 700px;
+    margin: 0 auto;
+    padding: 20px 20px 20px 20px;
+    background: linear-gradient(to left,#079ee4,#08e953)
+    
+}
+img {
+    width: 700px;
+    height: 400px;
+}
+h1{
+    font-size: 70px;
+    text-align: center;
+}
+p, li {
+    font-size: 25px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
